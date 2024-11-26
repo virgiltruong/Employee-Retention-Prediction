@@ -1,7 +1,7 @@
 # Predicting Employee Churn
 ## Overview 
 
-The goal of this project was to create a multiple linear regression and random forest model to predict high rider gratuity or not. This project utilized yellow taxi trips taken in New York City during 2017. The final random forest model performed with 86% accuracy and 72% precision determining what features were most important in separating low tippers from high tippers. Based on the model, the duration, distance, and cost of the trip were most influential in determining a generous tipper (>20%) vs a non-generous one (<20%). 
+The goal of this project was to identify the factor that's likely to make employees leave the Salifort Motors. In doing so, I will use two approaches: Logistic Regression and Random Forest Machine Learning. The data set used in this project is the Human Resources (HR) data from Salifort Motors from [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv). Based on the predictions of the Random Forest Model, the factors that affected an employee's decision most are their satisfaction level, number of projects assigned, and the time spent at the company (tenure).
 
 ## Business Understanding 
 
