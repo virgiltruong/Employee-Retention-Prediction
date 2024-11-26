@@ -40,7 +40,7 @@ salary|The employee's salary (U.S. dollars)
   
   - F1 Score (0.80): The logistic regression model does a decent job in balancing both false positives and false negatives.
         
-### - Random Forest:
+### Random Forest:
 
   - Accuracy (0.99): The random forest model correctly predicted the target variable 99% of the time, which indicates excellent overall performance. However, such a high accuracy might suggest overfitting.
   - Recall (0.92): The random forest model identified 92% of the employees who left the company, indicating strong performance in detecting the positive class.
