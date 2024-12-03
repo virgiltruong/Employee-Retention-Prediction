@@ -1,4 +1,4 @@
-# Predicting Employee Churn
+# Employee Retention Prediction
 ## Overview 
 
 The goal of this project was to identify the factor that's likely to make employees leave the Salifort Motors. In doing so, I will use two approaches: Logistic Regression and Random Forest Machine Learning. The data set used in this project is the Human Resources (HR) data from Salifort Motors from [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv). Based on the predictions of the Random Forest Model, the factors that affected an employee's decision most are their satisfaction level, number of projects assigned, and the time spent at the company (tenure).
